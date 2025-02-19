@@ -32,7 +32,7 @@ export default function Home() {
           </h1>
 
           <p className=" text-sm sm:text-lg md:text-xl font-medium">
-            Proxima's predictive intelligence lowers acquisition <br />
+            Proxima&apos;s predictive intelligence lowers acquisition <br />
             costs and increases customer LTV so you can scale your <br />{" "}
             business profitably.
           </p>
@@ -73,7 +73,7 @@ export default function Home() {
               Eye popping results
             </h2>
             <p className=" text-sm sm:text-lg md:text-xl text-[#84A5AA] text-center mt-3 md:mt-12">
-              We'll help you acquire more customers--for less--and maximize
+              We&apos;ll help you acquire more customers--for less--and maximize
               marketing performance so you can scale profitably.
             </p>
           </div>
